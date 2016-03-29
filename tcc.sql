@@ -31,3 +31,4 @@ id int auto_increment primary key,
  COMBUSTIVEL varchar(400),
  COR varchar(400),
  QUILOMETRAGEM varchar(400));
+ //teste
